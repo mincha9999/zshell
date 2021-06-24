@@ -3,5 +3,5 @@ A very power-full hacking shell made in python which has commands even scripts i
 this is the first version of this tool(1.0) it supports the following features:-
 
 * automated installation through commands automated
-*ip scanning
-*many commands
+* ip scanning
+* many commands
